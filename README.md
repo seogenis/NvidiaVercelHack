@@ -1,7 +1,9 @@
+<img width="652" alt="Screenshot 2025-02-11 at 5 43 35 PM" src="https://github.com/user-attachments/assets/94caa4fb-ae94-4283-9ff8-edd375bdadba" />
+
 # 🏆 We just won 2nd at the NVIDIA Hackathon 🏆 
 **...with a Jensen Huang-signed GPU!**
 
-Last week, **Santa Clara University SCU AI Collaborate** members competed at the **NVIDIA AI x Vercel Hackathon** in San Francisco against hundreds of programmers from around the world.
+**Santa Clara University SCU AI Collaborate** members competed at the **NVIDIA AI x Vercel Hackathon** in San Francisco against hundreds of programmers from around the world.
 
 ## Our Project
 We built an **AI agent** that:
